@@ -28,4 +28,4 @@ Complete journey from PyTorch basics to real-world deep learning projects.
 PyTorch, Optuna, NumPy, Pandas, matplotlib
 
 ## Author
-Saif Ullah - ML Engineer
+Saif Ullah - Data Scientist
